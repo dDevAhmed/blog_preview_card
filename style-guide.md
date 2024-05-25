@@ -22,7 +22,7 @@ The designs were created to the following widths:
 - Black: hsl(0, 0%, 7%)
 
 ## Typography
-
+1440
 ### Body Copy
 
 - Font size (paragraph): 16px
